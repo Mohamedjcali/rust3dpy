@@ -1,7 +1,6 @@
 // Holds information about and defines a few ways to create a color in RGBA.
 //
-// Brian Ho
-// brian@brkho.com
+
 
 use gfx::types::*;
 
