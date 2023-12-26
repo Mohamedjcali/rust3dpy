@@ -3,8 +3,6 @@
 // methods. Future support is planned for adding an OrthographicCamera, but it is not currently
 // implemented.
 //
-// Brian Ho
-// brian@brkho.com
 
 extern crate cgmath;
 extern crate gl;
