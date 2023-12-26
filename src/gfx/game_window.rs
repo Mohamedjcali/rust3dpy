@@ -3,8 +3,7 @@
 // context. This might be moved to a "core" crate in the future if the GameWindow must also handle
 // sophisitcated input, physics, or sound.
 //
-// Brian Ho
-// brian@brkho.com
+
 
 extern crate cgmath;
 extern crate gl;
