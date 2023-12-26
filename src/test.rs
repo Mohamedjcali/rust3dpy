@@ -1,10 +1,3 @@
-// Work in progress of a 2D game using glutin for context creation/input
-// handling and gl-rs for OpenGL bindings. The game will be a simple top down
-// action-RPG created for educational purposes to assess the viability of Rust
-// as a video game development language.
-//
-// Brian Ho
-// brian@brkho.com
 
 #[macro_use]
 extern crate mmo;
