@@ -1,9 +1,4 @@
-// Utility module that allows for decoding of a BMP given a path to the file. This is only
-// implemented for a very strict subset of possible BMP formats (BITMAPINFOHEADER) without
-// compression. This is the format output by GIMP when exporting as BMP.
-//
-// Brian Ho
-// brian@brkho.com
+
 
 
 use std::fs::File;
