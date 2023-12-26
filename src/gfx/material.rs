@@ -1,7 +1,5 @@
 // Holds information about and defines a few ways to create a Material.
 //
-// Brian Ho
-// brian@brkho.com
 
 extern crate gl;
 
