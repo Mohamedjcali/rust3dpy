@@ -6,8 +6,6 @@
 // product in their absence, but since this is a quick and dirty implementation, this is currently
 // unsupported.
 // 
-// Brian Ho
-// brian@brkho.com
 
 
 extern crate cgmath;
