@@ -1,10 +1,3 @@
-// Defines commonly used macros that should be shared across the crate. These are primarily used
-// to make the code in gl-rs bindings cleaner and more sane. I'm honestly not sure I'm doing
-// this macro thing correctly, but oh well.
-//
-// Brian Ho
-// brian@brkho.com
-
 
 #[macro_export]
 // Macro for getting a multiple of the size for GLfloat and casting it as an OpenGL type.
