@@ -1,8 +1,5 @@
 // Utility module that allows for compiling shaders and linking OpenGL programs.
-// TODO: Modify the gl-rs example shader compilation functions to have better error handling.
-//
-// Brian Ho
-// brian@brkho.com
+
 
 extern crate gl;
 extern crate time;
