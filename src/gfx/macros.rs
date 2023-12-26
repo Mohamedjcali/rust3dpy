@@ -2,8 +2,6 @@
 // to make the code in gl-rs bindings cleaner and more sane. I'm honestly not sure I'm doing
 // this macro thing correctly, but oh well.
 //
-// Brian Ho
-// brian@brkho.com
 
 
 #[macro_export]
