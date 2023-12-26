@@ -2,8 +2,6 @@
 // format is a binary file format native to the Rust game engine and can be created from a FBX file
 // and texture maps using the rmod_converter.py script.
 //
-// Brian Ho
-// brian@brkho.com
 
 extern crate cgmath;
 extern crate gl;
