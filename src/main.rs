@@ -1,7 +1,3 @@
-// An example program using the 3D Rust game engine.
-//
-// Brian Ho
-// brian@brkho.com
 
 extern crate mmo;
 extern crate time;
