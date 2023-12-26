@@ -4,8 +4,6 @@
 // data is serialized in the GPU's memory. A ModelInfo can be used to create a ModelInfo which is
 // a realizaton of the object in 3D space which can be rendered by the engine.
 //
-// Brian Ho
-// brian@brkho.com
 
 extern crate cgmath;
 
