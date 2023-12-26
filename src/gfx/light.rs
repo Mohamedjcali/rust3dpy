@@ -3,9 +3,7 @@
 // one direction at a constant intensity (kind of like a PointLight from an infinite distance with
 // with no attenuation). SpotLight is like a PointLight except it has a cutoff angle with a dropoff
 // factor.
-//
-// Brian Ho
-// brian@brkho.com
+
 
 extern crate gl;
 
